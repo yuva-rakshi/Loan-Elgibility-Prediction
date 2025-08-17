@@ -1,6 +1,6 @@
 # Loan-Elgibility-Prediction
 
-Project Description
+# Project Description
 
 This project represents a comprehensive data science workflow aimed at predicting loan eligibility. The process involves exploratory data analysis (EDA) to understand key patterns, thorough data preprocessing, and the application of machine learning models to build a predictive solution. The goal is to derive actionable insights from the dataset and provide a robust framework for making loan decisions.
 
